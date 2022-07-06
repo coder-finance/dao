@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Architecture.md",
-            "mode": "preview",
+            "file": "Prototype - Features and Data Involved.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture.md",
+                "file": "Prototype - Features and Data Involved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,13 @@
   },
   "active": "973a81449586c574",
   "lastOpenFiles": [
-    "Architecture.md",
-    "IMG_1977.jpg",
+    "Prototype - Features and Data Involved.md",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
-    "coder_finance_architecture_.png",
+    "IMG_1977.jpg",
     "IMG_1985.jpg",
     "IMG_1986.jpg",
+    "Architecture.md",
+    "coder_finance_architecture_.png",
     "Architecture.md.md"
   ]
 }
