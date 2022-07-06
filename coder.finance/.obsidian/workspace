@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a289ac9d9792c5da",
+    "type": "split",
+    "children": [
+      {
+        "id": "973a81449586c574",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Architecture.md.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b882a19776c97c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6301f8b3f9ad31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd50a4e86f132fa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6470198505a47160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f32e089d58a12d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "202fb1450d2cc769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b463c7761ca28567",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "973a81449586c574",
+  "lastOpenFiles": [
+    "Architecture.md.md"
+  ]
+}
