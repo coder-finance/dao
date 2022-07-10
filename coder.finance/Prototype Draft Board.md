@@ -46,6 +46,7 @@ Contribution should be done in timely manner with the best tech possible.
 Proof of contribution is submitted to the proposal with a small bond that will be taken if not approved.
 Approved contribution has a rating based on scores system base don checklist.
 Contribution spam, DDoS -- protected by a bond.
+Signing commits for contribution: https://github.com/opentimestamps/opentimestamps-client/blob/master/doc/git-integration.md
 
 ## QA
 Several QA need to approve. If a MR is rejected the bond will be distributed to QA.
