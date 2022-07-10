@@ -1,0 +1,48 @@
+# Prototype Draft Board
+![[technical_prototype_070722.png]]
+
+## Proposal
+Proposals are permissioned, to protect from malicious proposals.
+==Permissions?==
+
+
+Blockchain record:
+- Endorsed by: Public Key --> Digital ID (less anonymous), ZK Proof of ID (more anonymous)
+- Proposal hash
+
+IPFS document with fields:
+- abstract
+- requester ID
+- requester signature
+- requester bounty
+- time limit
+- bond limit
+- quorum
+
+References:
+- https://tezos.gitlab.io/active/voting.html
+
+Where bounty can be:
+ - DAO tokens amount N,
+ - crypto currency amount M,
+ - share X of future emissions over time T.
+
+## Voting
+1. Protection from Lords.
+2. Can be a meaningful voter after a decent amount of tokens.
+3. Being a contributer is more important than holding tokens.
+4. Veto vote.
+5. How to deal 
+
+Vote is a blockchain record:
+- Voter: public key
+- Proposal hash
+
+
+
+## Contribution
+Do not allow conflicting contributions.
+Contribution should be done in timely manner with the best tech possible.
+Proof of contribution is submitted to the proposal with a small bond that will be taken if not approved.
+
+
