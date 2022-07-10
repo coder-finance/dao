@@ -32,7 +32,7 @@ Where bounty can be:
 2. Can be a meaningful voter after a decent amount of tokens.
 3. Being a contributer is more important than holding tokens.
 4. Veto vote.
-5. How to deal 
+5. Largest contributors vote.
 
 Vote is a blockchain record:
 - Voter: public key
@@ -44,5 +44,14 @@ Vote is a blockchain record:
 Do not allow conflicting contributions.
 Contribution should be done in timely manner with the best tech possible.
 Proof of contribution is submitted to the proposal with a small bond that will be taken if not approved.
+Approved contribution has a rating based on scores system base don checklist.
+Contribution spam, DDoS -- protected by a bond.
+
+## QA
+Several QA need to approve. If a MR is rejected the bond will be distributed to QA.
+If a MR is approved, approving parties are paid in token.
+
+Merge based on several approvals. Using github or git hooks.
+Approvals come from smart contract and an oracle calls the api.
 
 
