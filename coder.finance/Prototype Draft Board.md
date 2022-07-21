@@ -10,6 +10,8 @@ Blockchain record:
 - Endorsed by: Public Key --> Digital ID (less anonymous), ZK Proof of ID (more anonymous)
 - Proposal hash
 
+==Check Compund?==
+
 IPFS document with fields:
 - abstract
 - requester ID
@@ -33,10 +35,14 @@ Where bounty can be:
 3. Being a contributer is more important than holding tokens.
 4. Veto vote.
 5. Largest contributors vote.
+6. If you have more than S token ou have to reveal yourself.
 
 Vote is a blockchain record:
 - Voter: public key
 - Proposal hash
+
+How to protect from a predatory entity that buys a lot of tokens to vote maliciously and then immediatelly dumps them? 
+
 
 
 
@@ -54,5 +60,14 @@ If a MR is approved, approving parties are paid in token.
 
 Merge based on several approvals. Using github or git hooks.
 Approvals come from smart contract and an oracle calls the api.
+
+Allow freely merge MRs if a bond posted. However that bond is kept in custody for a month and if no one disputed the MR then it is returned back to the contributor.
+
+## Merge
+Go crazy and allow process of deploying to mainnet to go automatic. We can restrict it later.
+
+## Rewards
+Contributer rewarded.
+QA rewarded.
 
 
