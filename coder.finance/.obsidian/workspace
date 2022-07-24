@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prototype Draft Board.md",
+            "file": "Development.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Draft Board.md",
+                "file": "Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "332d874060d657a3",
   "lastOpenFiles": [
+    "Toluca.md",
     "References.md",
     "Prototype Draft Board.md",
     "Prototype - Features and Data Involved.md",
-    "Toluca.md",
     "Architecture.md",
+    "technical_prototype_070722.png",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
     "coder_finance_architecture_.png",
     "IMG_1977.jpg",
-    "IMG_1985.jpg",
-    "IMG_1986.jpg"
+    "IMG_1985.jpg"
   ]
 }
