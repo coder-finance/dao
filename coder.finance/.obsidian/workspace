@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "332d874060d657a3",
+        "id": "335ed867b1442cbf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development.md",
-            "mode": "preview",
+            "file": "Prototype Draft Board.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development.md",
+                "file": "Prototype Draft Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "332d874060d657a3",
+  "active": "335ed867b1442cbf",
   "lastOpenFiles": [
-    "Toluca.md",
     "References.md",
+    "Development.md",
     "Prototype Draft Board.md",
+    "technical_prototype_070722.png",
+    "Toluca.md",
     "Prototype - Features and Data Involved.md",
     "Architecture.md",
-    "technical_prototype_070722.png",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
     "coder_finance_architecture_.png",
-    "IMG_1977.jpg",
-    "IMG_1985.jpg"
+    "IMG_1977.jpg"
   ]
 }
