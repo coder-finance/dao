@@ -12,4 +12,8 @@ Anthony tweaks proposals and votes.
 Oleg implements voting on frontend and proposal execution.
 
 
+_20 Aug 2022_
+diesel-rs but on coder dao. github is social platform but no incetives and you don't own. imagine you have payrol based on your contributions.
+
+
 
