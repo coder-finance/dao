@@ -15,5 +15,11 @@ Oleg implements voting on frontend and proposal execution.
 _20 Aug 2022_
 diesel-rs but on coder dao. github is social platform but no incetives and you don't own. imagine you have payrol based on your contributions.
 
+_4 Sep 2022_
+Anthony continues to work on proposal status page in the FE.
+Anthony will work on automation logic (basic level).
+Oleg will work on voting page.
+
+
 
 
