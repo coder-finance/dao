@@ -7,9 +7,11 @@
         "id": "335ed867b1442cbf",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "technical_prototype_070722.png"
+            "file": "Toluca.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical_prototype_070722.png",
+                "file": "Toluca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "335ed867b1442cbf",
   "lastOpenFiles": [
-    "Prototype - Features and Data Involved.md",
-    "IMG_1985.jpg",
-    "coder_finance_architecture_.png",
-    "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
-    "Deployment (Ropsten) 2022-07-31.md",
     "Development.md",
     "Architecture.md",
+    "Deployment (Ropsten) 2022-07-31.md",
+    "Toluca.md",
+    "References.md",
+    "Prototype - Features and Data Involved.md",
     "Prototype Draft Board.md",
     "technical_prototype_070722.png",
-    "References.md"
+    "coder_finance_architecture_.png",
+    "IMG_1986.jpg"
   ]
 }
