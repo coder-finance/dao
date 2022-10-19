@@ -2,12 +2,15 @@
 
 Contract changes
 
-~Queued ProposalHash needs to be fixed (GovernorTimelockCompoundUpgradeable)~
-!!! VotingDelay and VotingPeriod no longer global, getter functions need to change (dummy getter funcs)
-!!! Bounty Release mechanism needs to be changed as calldata is a static address upon propose()
+~~Queued ProposalHash needs to be fixed (GovernorTimelockCompoundUpgradeable)~~
+~~VotingDelay and VotingPeriod no longer global, getter functions need to change (dummy getter funcs)~~
+~~Bounty Release mechanism needs to be changed as calldata is a static address upon propose()~~
+~~lodgeContribution should not be possible on expired proposals~~
+
+Redeploy everything. The contract contributions have been hacked to speed up development
 
 IPFS
-- ~Should store targets, calldata etc. so we can always recreate the proposalId~
+- ~~Should store targets, calldata etc. so we can always recreate the proposalId~~
 
 All states
 - Proposal IPFS hash
