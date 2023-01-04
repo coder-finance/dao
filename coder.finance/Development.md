@@ -21,8 +21,11 @@ Anthony will work on automation logic (basic level).
 Oleg will work on voting page.
 
 3 Jan 2022
-Anthony: watch github contribution.
-
+Anthony: streamline watch github contribution.
+Oleg: 
+	- History events -- not all shown.
+	- Voting buttons are not shown.
+		
 
 
 
