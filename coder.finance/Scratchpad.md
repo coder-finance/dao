@@ -23,3 +23,5 @@ Created
 Verified, Executed, Merged
 -- 'confirmed' state required
 -- Log new hash and update upon committing
+
+# Jan 5 - Need to handle deposits properly. At the moment it's not.
