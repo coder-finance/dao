@@ -24,4 +24,9 @@ Verified, Executed, Merged
 -- 'confirmed' state required
 -- Log new hash and update upon committing
 
-# Jan 5 - Need to handle deposits properly. At the moment it's not.
+Jan 5 - Need to handle deposits properly. At the moment it's not.
+
+
+====
+Can vote with 0 tokens.
+How long for the voting period.

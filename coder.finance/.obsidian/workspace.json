@@ -23,9 +23,11 @@
             "id": "751e6d08a2a4e13f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "technical_prototype_070722.png"
+                "file": "Scratchpad.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical_prototype_070722.png",
+                "file": "Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +119,15 @@
   },
   "active": "751e6d08a2a4e13f",
   "lastOpenFiles": [
-    "Development.md",
+    "References.md",
     "Scratchpad.md",
+    "Development.md",
+    "Prototype Draft Board.md",
+    "technical_prototype_070722.png",
     "Toluca.md",
     "Architecture.md",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
     "coder_finance_architecture_.png",
-    "Deployment (Ropsten) 2022-07-31.md",
-    "Prototype Draft Board.md",
-    "References.md",
-    "Prototype - Features and Data Involved.md"
+    "Deployment (Ropsten) 2022-07-31.md"
   ]
 }
