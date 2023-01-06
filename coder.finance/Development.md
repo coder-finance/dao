@@ -20,7 +20,7 @@ Anthony continues to work on proposal status page in the FE.
 Anthony will work on automation logic (basic level).
 Oleg will work on voting page.
 
-3 Jan 2022
+_3 Jan 2022_
 Anthony: streamline watch github contribution.
 Oleg: 
 	- History events -- not all shown.
