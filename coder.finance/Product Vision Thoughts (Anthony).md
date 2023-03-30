@@ -40,4 +40,4 @@ Value is created for entities who:
 - **TRUST**
 
 ## What it is right now (as of 30/03/2023)
-An automated feature and code tracking platform which organises payments to participants through Ethereum, based on a combination of decentralised technologies (IPFS, Ethereum) and public centralised platforms (GitHub, Discord).
+A project governance platform with automated feature and code tracking and organises payments to contributors through Ethereum, based on a combination of decentralised technologies (IPFS, Ethereum) and public centralised platforms (GitHub, Discord).
