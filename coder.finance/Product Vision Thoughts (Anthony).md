@@ -31,3 +31,13 @@ Value is created for entities who:
 * can benefit from the monetary gains posted by the patron entities
 * prefer the self-service nature of the platform
 * enjoys an entry ramp into the open source world
+
+## Core Qualities of the Platform
+- Transparent
+- Non-repudiation
+- Automated
+- Easily audited
+- **TRUST**
+
+## What it is right now (as of 30/03/2023)
+An automated feature and code tracking platform which organises payments to participants through Ethereum, based on a combination of decentralised technologies (IPFS, Ethereum) and public centralised platforms (GitHub, Discord).
