@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2477217e4eedd3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Vision Thoughts (Oleg).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Vision Thoughts (Anthony).md",
+                "file": "Product Vision Thoughts (Oleg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +129,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd2ce8d6cb306dfa",
+  "active": "2477217e4eedd3d8",
   "lastOpenFiles": [
-    "Scratchpad.md",
     "Product Vision Thoughts (Anthony).md",
+    "Product Vision Thoughts (Oleg).md",
+    "Scratchpad.md",
     "Development.md",
     "Toluca.md",
     "Architecture.md",
