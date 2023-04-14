@@ -19,4 +19,4 @@ You need a lot of manpower but you don't have funds.
 You decided to run this as an open source project on the platform and invite contributer that are paid in IOU.
 You get your manpower and once the project is released, IOU become real stuff.
 
-
+![[aws startup loft ny ideation.pdf]]
