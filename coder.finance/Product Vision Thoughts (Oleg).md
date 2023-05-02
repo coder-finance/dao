@@ -20,3 +20,21 @@ You decided to run this as an open source project on the platform and invite con
 You get your manpower and once the project is released, IOU become real stuff.
 
 ![[aws startup loft ny ideation.pdf]]
+
+## Summary of the above
+Proposed Project Management models:
+1. M1 – Many contribute, only one is awarded. Works when `money/time>threshold`, i.e. money offered are much more than cost of time to work on the contribution. Can be useful for newbies or promo contributions to get onboard. 
+	```
+	Open field, anybody can contribute, proposal is public (gold rush), expensive.
+	```
+1. M2 – Picking. Many EoI, one allowed to contribute.
+2. M3 – Many contribute, one awarded with access to a list of tasks. Works when intro task is take home task or a pilot, etc.
+   ```
+   Task chunks, private vetting, open initial chunks, then upon contribution fulfillment, will have access to more tasks.
+	```
+3. M4 – Many EoI, several allowed to contribute to a list of tasks.
+   ```
+   Tasks chunk pools. Tasks get released in chunks to pools of contributors. Upon completion, each  pool gets further access (Private gold rush)
+	```
+
+Wireframes: https://drive.google.com/file/d/1a8fv_F6zEk-4wD4E9wNea__fLHPnYY1N/view?usp=sharing
