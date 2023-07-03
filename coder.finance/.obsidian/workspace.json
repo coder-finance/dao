@@ -71,14 +71,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Vision Thoughts (Oleg).md",
+                "file": "sketches/Stakeholder view.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91aca19bd80ccbff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33b642996e9d4590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Whitepaper material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b0ba01e34ce379c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -144,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Vision Thoughts (Oleg).md",
+                "file": "References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,19 +207,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8c1807935f3766a",
+  "active": "5b0ba01e34ce379c",
   "lastOpenFiles": [
-    "Scratchpad.md",
+    "Whitepaper material.md",
+    "DAO analysis.md",
     "References.md",
+    "Toluca.md",
+    "Product Vision Thoughts (Oleg).md",
+    "sketches/Stakeholder dashboard_draft_2 Large.jpeg",
+    "sketches/Stakeholder view.md",
+    "sketches/Contributor View dashboard_draft_1 Large.jpeg",
+    "sketches/Matchmaking dashboard_draft_3 Large.jpeg",
+    "Product Vision Thoughts (Anthony).md",
     "Prototype Draft Board.md",
     "Prototype - Features and Data Involved.md",
-    "IMG_1977.jpg",
-    "sketches/dashboard_draft_3 Large.jpeg",
-    "sketches/dashboard_draft_2 Large.jpeg",
-    "sketches/dashboard_draft_1 Large.jpeg",
-    "Product Vision Thoughts (Anthony).md",
-    "Product Vision Thoughts (Oleg).md",
     "technical_prototype_070722.png",
+    "Scratchpad.md",
+    "IMG_1977.jpg",
     "Architecture.md",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
     "aws startup loft ny ideation.pdf",
@@ -191,7 +231,6 @@
     "Deployment (Ropsten) 2022-07-31.md",
     "Development.md",
     "IMG_1985.jpg",
-    "IMG_1986.jpg",
-    "Toluca.md"
+    "IMG_1986.jpg"
   ]
 }
