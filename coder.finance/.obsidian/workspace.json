@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ea8975a9a85419e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tokenomics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Tokenomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,13 +219,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5b0ba01e34ce379c",
+  "active": "7ea8975a9a85419e",
   "lastOpenFiles": [
-    "Whitepaper material.md",
-    "DAO analysis.md",
-    "References.md",
-    "Toluca.md",
     "Product Vision Thoughts (Oleg).md",
+    "Tokenomics.md",
+    "References.md",
+    "Whitepaper material.md",
+    "technical_prototype_070722.png",
+    "Toluca.md",
+    "DAO analysis.md",
     "sketches/Stakeholder dashboard_draft_2 Large.jpeg",
     "sketches/Stakeholder view.md",
     "sketches/Contributor View dashboard_draft_1 Large.jpeg",
@@ -221,7 +235,6 @@
     "Product Vision Thoughts (Anthony).md",
     "Prototype Draft Board.md",
     "Prototype - Features and Data Involved.md",
-    "technical_prototype_070722.png",
     "Scratchpad.md",
     "IMG_1977.jpg",
     "Architecture.md",
