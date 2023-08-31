@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72d7b397a5004355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prototype Draft Board.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokenomics.md",
+                "file": "Prototype Draft Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,11 +231,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7ea8975a9a85419e",
+  "active": "72d7b397a5004355",
   "lastOpenFiles": [
-    "Product Vision Thoughts (Oleg).md",
-    "Tokenomics.md",
     "References.md",
+    "Tokenomics.md",
+    "Product Vision Thoughts (Oleg).md",
     "Whitepaper material.md",
     "technical_prototype_070722.png",
     "Toluca.md",

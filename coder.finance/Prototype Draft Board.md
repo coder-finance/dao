@@ -32,7 +32,7 @@ Where bounty can be:
 ## Voting
 1. Protection from Lords.
 2. Can be a meaningful voter after a decent amount of tokens.
-3. Being a contributer is more important than holding tokens.
+3. Being a contributor is more important than holding tokens.
 4. Veto vote.
 5. Largest contributors vote.
 6. If you have more than S token ou have to reveal yourself.
@@ -41,7 +41,7 @@ Vote is a blockchain record:
 - Voter: public key
 - Proposal hash
 
-How to protect from a predatory entity that buys a lot of tokens to vote maliciously and then immediatelly dumps them? 
+How to protect from a predatory entity that buys a lot of tokens to vote maliciously and then immediately dumps them? 
 
 
 
