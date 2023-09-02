@@ -136,9 +136,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b888948001e7a3eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sketches/CoderDAO.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -204,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Draft Board.md",
+                "file": "sketches/CoderDAO.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,9 +241,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "72d7b397a5004355",
+  "active": "b888948001e7a3eb",
   "lastOpenFiles": [
+    "sketches/Contributor View dashboard_draft_1 Large.jpeg",
+    "sketches/CoderDAO.pdf",
+    "Prototype - Features and Data Involved.md",
+    "Prototype Draft Board.md",
     "References.md",
+    "Scratchpad.md",
     "Tokenomics.md",
     "Product Vision Thoughts (Oleg).md",
     "Whitepaper material.md",
@@ -242,12 +257,8 @@
     "DAO analysis.md",
     "sketches/Stakeholder dashboard_draft_2 Large.jpeg",
     "sketches/Stakeholder view.md",
-    "sketches/Contributor View dashboard_draft_1 Large.jpeg",
     "sketches/Matchmaking dashboard_draft_3 Large.jpeg",
     "Product Vision Thoughts (Anthony).md",
-    "Prototype Draft Board.md",
-    "Prototype - Features and Data Involved.md",
-    "Scratchpad.md",
     "IMG_1977.jpg",
     "Architecture.md",
     "5C6BB40E-6D5D-47AB-971E-5C06C7E88C35.jpg",
